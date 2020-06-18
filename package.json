@@ -1,0 +1,25 @@
+{
+  "name": "discord-giveaways-enmap",
+  "version": "1.0.1",
+  "description": "Discord giveaways framework based on enmap.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Snowflake107/discord-giveaways-enmap"
+  },
+  "keywords": [
+    "discord-giveaways",
+    "giveaways",
+    "enmap"
+  ],
+  "author": "Snowflake107",
+  "license": "MIT",
+  "dependencies": {
+    "better-sqlite3": "^7.1.0",
+    "discord-giveaways": "^4.1.8",
+    "enmap": "^5.3.1"
+  }
+}
